@@ -1,4 +1,4 @@
-# adaptive
+# ghostgunnerflex
 
 <<<NOTE: Beginning July 1st, we  are migrating all active development from the Weaponeer hangout to this hub. Prospective developers please contact one of the project leads as announced in the hangout and discord over the past week.>>>
 
