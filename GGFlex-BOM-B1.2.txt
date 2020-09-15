@@ -32,7 +32,7 @@ M3x15 SHCS				2
 M3x12 SHCS				2
 M3x10 SHCS				4
 M3x10 BHCS				12
-M3 NUT					10
+M3 HEX NUT				10
 
 -----------------EXTRUSION-----------------
 
