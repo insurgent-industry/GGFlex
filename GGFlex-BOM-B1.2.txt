@@ -12,15 +12,14 @@ Rev. 9/13/20
 
 Type					Qty.
 
-M5x20 BHCS				4
+M5x20 BHCS				8
 M5x12 BHCS				8
 M5x10 BHCS				114
 M5x18 SHCS				4*
-M5 HEX NUT				4
-"					4*
+M5 HEX NUT				12
 M4x45 SHCS				2
 "					4*
-M4x35 SHCS				2
+M4x30 SHCS				2
 "					4*
 M4x18 SHCS				4
 "					8*
