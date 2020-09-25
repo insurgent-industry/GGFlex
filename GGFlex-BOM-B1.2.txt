@@ -28,7 +28,7 @@ M4 HEX NUT				8
 "					16*
 M3x25 SHCS				2
 M3x15 SHCS				2
-M3x15 BHCS					4*
+M3x15 BHCS				4*
 M3x12 SHCS				2
 M3x10 SHCS				4
 M3x10 BHCS				12
