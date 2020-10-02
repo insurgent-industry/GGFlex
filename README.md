@@ -1,4 +1,4 @@
-# ghostgunnerflex
+<img src="Media/Pictures/HeaderImg.jpg">
 
 The Ghost Gunner FLEX is a hardware iteration of the "Adaptive" design of the Defense Distributed Ghost Gunner project. Ths FLEX maintains the initial design goals and parameters of the Adaptive build but is specifically tailored to facilitate sourcing and assembly by parties in the United States and includes additional quality of life improvements. Specifically;
 
