@@ -1,17 +1,5 @@
 <img src="Media/Pictures/HeaderImg.jpg">
 
-The Ghost Gunner FLEX is a hardware iteration of the "Adaptive" design of the Defense Distributed Ghost Gunner project. Ths FLEX maintains the initial design goals and parameters of the Adaptive build but is specifically tailored to facilitate sourcing and assembly by parties in the United States and includes additional quality of life improvements. Specifically;
-
-1. The FLEX swaps the Chinese-sourced, 52mm DC hobby spindle for the cheaper, stronger, and more readily available Harbor Freight/Drill Master 2.4A trim router (https://www.harborfreight.com/14-in-24-Amp-Trim-Router-62659.html) as the stock spindle option
-2. The FLEX features a modular tool mount/Z-carriage, allowing relatively quick swaps of toolheads
-3. The FLEX includes endstops for automatic, repeatable, and absolute zeroing of axes [UNDER DEVELOPMENT]
-4. The FLEX includes alternate mounts for controllers (RAMPS, MKS GEN/DLC, Smoothie, etc.) in addition to the standard CNC Shield 
-5. The FLEX includes alternate mounts for spindles (Ryobi, Dewalt, Bosch, etc. router spindles) in addition to the HF 2.4A trim and 52mm hobby DC 
-6. The FLEX includes pallet-type work changing allowing the rapid swap of different tooling jigs for different projects
-
-Longer term development goals and intended iterations of the FLEX include:
-
-1. A lower cost frame option built with SAE hardware and steel EMT conduit replacing the metric and T-slot hardware and extrusion
-2. Full RepRap compatibility in adopting a larger build envelop/workspace and ability to swap in an FDM print-head
-3. A geared, "mostly printed" 4th axis allowing the machining of more complex parts by simultaneous 4-axis controls
-4. Simple, hand-fabricated enclosure panels with vacuum and streamlined cable management
+<i><b>The Ghost Gunner FLEX is a hardware clone of the Defense Distributed Ghost Gunner 2 with several variances designed to make the unit easily reproduced and manufactured by hobbyists. Just like the Ghost Gunner 2 that precedes it, the design of the FLEX is fully Open Source hardware. The FLEX is built from 3D printed parts, aluminum T-slot extrusion, and commonly available motion components all ubiquitous within the RepRap community. <br><br>
+The FLEX features modular and swappable work-holding and accessory mounting methods, making it extremely flexible for a variety of tasks. The machine frame is suitable for use with conventional machining, fused deposition 3D printing, laser engraving, and grinding with straightforward toolhead swaps. The design is scaleable, allowing build envelopes up to 10x22x4 inches (250x550x100 millimeters) by a simple swap of motion and frame components without significant modifications to overall design. Having all square and flat features, the FLEX is also easily enclosed to control dust and temperature variations. <br><br>
+The Ghost Gunner FLEX community is pursuing multiple development goals. Leveraging the project's modular design, different portions of our community are actively developing cheaper framing and build options using SAE hardware, full RepRap compliance (using the machine to manufacture the parts required to build more of itself), a 4th rotary axis for more complex parts manufacture, and a dedicated electronics and software suite... with much more to come! Beginning with the public project launch on Friday, October 9th 2020, we actively invite all interested parties to join us and help stretch the project's capabilities as we continue to grow!</b></i>
