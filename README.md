@@ -1,3 +1,9 @@
+<br><br>
+## REGULAR UPDATES AND DEV LOGS ARE NOW GOING UP VIA OUR [COMMUNITY FORUMS,](https://GGFLEX.FORUMOTION.COM) JOIN UP TO KEEP UP! (The Git will see limited activity until the next scheduled version update the second or third week of November)
+<br>
+<br>
+<br>
+<br>
 <img src="Media/Pictures/HeaderImg.jpg">
 
 <i><b>The Ghost Gunner FLEX is a hardware clone of the Defense Distributed [Ghost Gunner 2](https://ghostgunner.net) with several variances designed to make the unit easily reproduced and manufactured by hobbyists. Just like the Ghost Gunner 2 that precedes it, the design of the FLEX is fully Open Source hardware. The FLEX is built from 3D printed parts, aluminum T-slot extrusion, and commonly available motion components all ubiquitous within the [RepRap](https://reprap.org) community. <br><br>
